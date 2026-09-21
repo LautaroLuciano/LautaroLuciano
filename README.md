@@ -1,16 +1,16 @@
 <div align="center">
 
-<!-- BANNER - terminal profile.sh --live animado en SVG -->
+<!-- BANNER - terminal profile.sh --live animado -->
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img src="assets/banner-dark.svg" width="100%" alt="profile.sh --live">
+  <source media="(prefers-color-scheme: dark)"  srcset="banner-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="banner-dark.gif">
+  <img src="banner-dark.gif" width="100%" alt="profile.sh --live">
 </picture>
 
 <br>
 
-<!-- NAME / TAGLINE - animacion de texto tipeando -->
-<a href="https://github.com/TU_USUARIO">
+<!-- NAME / TAGLINE - animación de texto tipeando -->
+<a href="https://github.com/LautaroLuciano">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=AA9BEF&center=true&vCenter=true&width=880&lines=Lautaro+Castro+-+Hazard+Forecaster;Early+Warning+Systems+%26+Risk+Analysis;Data+%2B+Weather+%2B+Impact+Modeling" alt="typing banner">
 </a>
 
@@ -23,7 +23,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=flat&color=aa9bef&label=profile+views" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=LautaroLuciano&style=flat&color=aa9bef&label=profile+views" alt="profile views">
 
 </div>
 
@@ -55,10 +55,6 @@ I build early warning systems and hazard impact models to translate complex mete
 
 ## Numbers matter? ohhh yes.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="assets/card-stats-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
-  <img src="assets/card-stats-dark.svg" width="480" alt="GitHub statistics">
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=LautaroLuciano&show_icons=true&theme=tokyonight&hide_border=true" width="480" alt="GitHub statistics">
 
 </div>
